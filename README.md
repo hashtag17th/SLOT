@@ -16,4 +16,4 @@ An analOG virgin ride of the mental expansion that is syntaxic - SuperLazyScript
 This echo line needs an apt update command after it if you want to update your OS before launching tools.
 echo "STAY UPDATED! INSERT PASSWORD TO UPDATE BEFORE LAUNCHING TOOLS!"
 
-Ex: sudo apt update -y | sudo parrot-upgrade -y | OR: sudo apt-get update/upgrade(don't use <apt-get> on Parrot OS[!!!])
+Ex: sudo apt update -y | sudo parrot-upgrade -y | OR: sudo apt-get update/upgrade(don't use "apt-get" on Parrot OS[!!!])
