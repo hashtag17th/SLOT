@@ -1,11 +1,11 @@
 #!/bin/bash
-##SuperLazyOsintTool, an automated bash script.
+## SLOT START.... an automated bash script.
 sudo su -c 'qterminal -d -e kalitorify -t' && sudo su -c 'qterminal -d -e htop' & sudo su -c 'mate-terminal --hide-menubar --geometry 78x35 --working-directory ~' & sudo su -c 'mate-terminal --full-screen --hide-menubar -x cmatrix -a -b' & sudo su -c 'mate-terminal --hide-menubar --geometry 78x35 --working-directory ~/lscript -x bash ./l'
-echo "PRESS F12 TO SEE OR HIDE THE HTOP DROPDOWN QTERMINAL - and if you close all terminal windows you have to hit ENTER to stop the script"
+echo "SLOT START....  PRESS F12 TO SEE OR HIDE THE HTOP DROPDOWN QTERMINAL"
 read
-echo "### LAZY IS RUNNING AS ROOT | HIT ENTER TO CLOSE THE SCRIPT or PRESS CTRL+C TO CLOSE SCRIPT BUT KEEP KALITORIFY ON ###"
+echo "### HIT ENTER TO CLOSE THE SCRIPT ###"
 read
-echo "SuperLazyOsintTool STOPPED...."
+echo "SLOT STOP.... "
 sudo kalitorify -c
 #DESCRIPTION:
 ## Hit small L key (l) when the script is done loading Kalitorify and the root window is highlighted - this will start the Lazy script(if installed) in your new root terminal window while kalitorify and cmatrix is running in the background.
