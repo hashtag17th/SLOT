@@ -20,3 +20,4 @@
 # Inspiration from and thanks to:
 # hackersploit, null byte, eaxeaxeax, sundevdown, brainfucksec and arismelachroinos!
 o7
+Neo version: 1.03. IT'S THE SHELL....
