@@ -1,0 +1,5 @@
+#REQ_:
+
+#LazyScript. Kalitorify. Htop. <--- apt-get install or Git clone from github.com
+#Linux. Qterminal. Mate-terminal. Qterminal. Gnome-terminal. .zsh 
+#
